@@ -1,6 +1,6 @@
-
-service: aws-node-auth0-cognito-custom-authorizers-api
-
+org: jayakumar
+app: webpt-integration-service
+service: webpt-integration-service
 frameworkVersion: "3"
 
 provider:
